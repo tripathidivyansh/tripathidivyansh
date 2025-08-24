@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Divyansh Tripathi<br>💻 Frontend Developer | Passionate about building clean and responsive UIs<br>🌐 Skills: HTML, CSS, JavaScript, React<br>🛠️ Currently exploring Backend Development<br>📈 DSA Enthusiast — 350+ problems on LeetCode, 450+ on GeeksforGeeks<br>🚀 LeetCode Goal: 787+ problems
+👋 Hi, I’m Divyansh Tripathi<br>💻 Frontend Developer | Passionate about building clean and responsive UIs<br>🌐 Skills: HTML, CSS, JavaScript, React<br>🛠️ Currently exploring Backend Development<br>📈 DSA Enthusiast — 450+ problems on LeetCode, 450+ on GeeksforGeeks<br>🚀 LeetCode Goal: 787+ problems
 
 
 ## 🌐 Socials:
